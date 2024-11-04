@@ -1,3 +1,3 @@
 # demo
-this is my git reprository
-author- Prapti
+This is my git reprository.
+Author- Prapti
